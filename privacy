@@ -17,15 +17,16 @@ Device Sensors
 What We Access: The App accesses your device's Gyroscope and Accelerometer sensors.
 Why We Access It: To calculate device rotation and movement to simulate realistic parallax scrolling effects on the 3D wallpaper as you tilt your phone.
 How It Is Handled: Sensor data is processed entirely in real-time in the device's volatile memory and is never recorded, stored, or sent off the device.
-2. Personal Data
+2. Personal Data and Data safety
 No Collection of Personal Data: We do not collect, store, or transmit any personally identifiable information (PII) such as your name, email address, phone number, device identifiers (IMEI/Android ID), or contact lists.
 No Accounts: The App does not require user registration or account creation to function.
+This app is committed to follow the Play Families policy.
 3. Third-Party Services
 The App may query third-party APIs to obtain weather coordinates. These queries send raw latitude and longitude coordinates to retrieve atmospheric data. These third-party services maintain their own privacy policies:
 
 OpenWeatherMap: OpenWeather Privacy Policy - https://openweather.co.uk/privacy-policy
 4. Children’s Privacy
-Our App does not collect any data and is safe for use by individuals of all ages, including children under the age of 13.
+Our App does not collect any data and is safe for use by individuals of all ages, including children under the age of 13. 
 
 5. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by updating the "Last Updated" date at the top of this document.
