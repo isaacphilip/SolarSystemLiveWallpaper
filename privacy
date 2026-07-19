@@ -1,0 +1,34 @@
+Privacy Policy for Solar System Live Wallpaper
+Last Updated: July 20, 2026
+
+This Privacy Policy describes how Solar System Live Wallpaper (referred to as "the App", "we", "us", or "our") handles your information when you use our mobile application.
+
+We are committed to protecting your privacy. The App is designed to run locally on your device to render interactive 3D wallpapers using OpenGL. Below is a detailed explanation of the minimal data we access and how it is used.
+
+1. Information Collection and Use
+Location Data (Real-time Weather Sync)
+What We Access: The App requests access to your device's location data (ACCESS_FINE_LOCATION and ACCESS_COARSE_LOCATION).
+Why We Access It: This permission is optional and is used exclusively to fetch local weather conditions (such as temperature, weather description, and city name) to display them as part of the live wallpaper overlay (e.g. on the Earth visualization screen).
+How It Is Handled:
+The location coordinates are processed strictly on-device to query public weather APIs (such as OpenWeatherMap).
+We do not store, track, or share your location history. Your location coordinates are never saved on a server or transmitted to any third party other than the weather provider for the sole purpose of retrieving current weather conditions.
+You can disable location access at any time through your Android system settings.
+Device Sensors
+What We Access: The App accesses your device's Gyroscope and Accelerometer sensors.
+Why We Access It: To calculate device rotation and movement to simulate realistic parallax scrolling effects on the 3D wallpaper as you tilt your phone.
+How It Is Handled: Sensor data is processed entirely in real-time in the device's volatile memory and is never recorded, stored, or sent off the device.
+2. Personal Data
+No Collection of Personal Data: We do not collect, store, or transmit any personally identifiable information (PII) such as your name, email address, phone number, device identifiers (IMEI/Android ID), or contact lists.
+No Accounts: The App does not require user registration or account creation to function.
+3. Third-Party Services
+The App may query third-party APIs to obtain weather coordinates. These queries send raw latitude and longitude coordinates to retrieve atmospheric data. These third-party services maintain their own privacy policies:
+
+OpenWeatherMap: OpenWeather Privacy Policy - https://openweather.co.uk/privacy-policy
+4. Children’s Privacy
+Our App does not collect any data and is safe for use by individuals of all ages, including children under the age of 13.
+
+5. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by updating the "Last Updated" date at the top of this document.
+
+6. Contact Us
+If you have any questions or suggestions about this Privacy Policy, please contact the developer at: mysitespecial@gmail.com
